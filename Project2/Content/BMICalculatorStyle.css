@@ -1,0 +1,60 @@
+﻿body {
+    font-family: verdana,Helvettica,sans-serif;
+    font-size: 85%;
+    width: 650px;
+    margin: 0 auto;
+    padding: 10px;
+    background-color: aliceblue;
+    border: 2px solid;
+}
+header {
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 10px;
+    overflow: hidden;
+}
+h1 {
+    font-size: 140%;
+    color:purple;
+    padding: 0;
+    margin-bottom: .5em;
+    margin-top: .5em;
+}
+label {
+    float: left;
+    width: 10em;
+    color: darkblue;
+}
+
+/*style for classes*/
+
+.entry {
+    margin-left: 1em;
+    margin-bottom: .5em;
+    width: 10em;
+}
+.validator {
+    font-size: 95%;
+    color: red;
+    margin-left: 1em;
+}
+.button {
+    margin-top: 1em;
+    width: 10em;
+    color: darkblue;
+}
+
+/*Styles for server controls*/
+#btnClear {
+    margin-left: 1em;
+}
+#Image2 {
+    margin-left: 5em;
+}
+#lblBMI {
+    margin-left: 5em;
+    color: chocolate;
+    font-family: 'Monotype Corsiva';
+    font-size: 150%;
+}
